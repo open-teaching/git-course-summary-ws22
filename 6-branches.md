@@ -2,7 +2,7 @@
 
 Branches ermöglichen es, parallel am gleichen Repository zu arbeiten, ohne dass es zu Problemen mit Konflikten kommt.
 
-Standardmäßig befindet man sich auf dem branch `main`.
+Standardmäßig befindet man sich auf dem branch `main`. 
 
 ## Befehle
 
@@ -11,3 +11,4 @@ Standardmäßig befindet man sich auf dem branch `main`.
 * Beides in einem Schritt: `git checkout -b <branchname>`
 * Vorhandene Branches anzeigen: `git branch -a`
 * Anderen Branch in den aktuellen Branch einfügen: `git merge <branchname>`
+* Alle Commits im aktuellen Branch anzeigen: `git log`
