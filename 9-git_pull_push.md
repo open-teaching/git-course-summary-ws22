@@ -5,4 +5,6 @@ Info from Cheat Sheet: git push [alias] / [branch] transmits local branch commit
 git pull fetches and merges any commits from the tracking remote branch 
 
 First we created a new branch & then edited our txt file ; edited the way we wanted ; then we added the data and commited it 
-After that we pushed our txt data to the branch! :) <3 now everybody is happy yay 
+After that we pushed our txt data to the branch! :) <3 now everybody is happy yay
+
+this is already too complex 
