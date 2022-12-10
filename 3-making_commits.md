@@ -14,17 +14,6 @@ The following command is used to commit the changes to the stack.
 
     $ git commit -m "commit message"
 
-
-
-
-
-
-
-
-
-
-
-
 ## What makes a good commit message
 it should desrcribe what you have changed compared to the last commit.
 It shouldn't be too long.
